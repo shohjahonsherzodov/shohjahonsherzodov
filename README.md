@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/shoh-coder/shoh-coder/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
+  <img src="[https://github.com/shoh-coder/shoh-coder/blob/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)" alt="snake gif">
 </p>
 
 
