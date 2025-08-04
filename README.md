@@ -55,27 +55,45 @@ Salom! Men **Sherzodov Shohjahon**, FULL STACK WEB DEVELOPER.
 ---
 
 ## 🚀 Mening loyihalarim
-
-<div align="center">
-
-<a href="https://github.com/shoh-coder/django-blog">
-  <img src="https://img.shields.io/badge/Django%20Blog-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black">
-</a>
-
-<a href="https://github.com/shoh-coder/python-quiz-bot">
-  <img src="https://img.shields.io/badge/Python%20Quiz%20Bot-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black">
-</a>
-
-<a href="https://github.com/shoh-coder/ustoz-bot">
-  <img src="https://img.shields.io/badge/Ustoz%20Bot-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black">
-</a>
-
-<a href="https://github.com/shoh-coder/portfolio-website">
-  <img src="https://img.shields.io/badge/Portfolio%20Website-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black">
-</a>
-
-</div>
-
----
-
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://via.placeholder.com/300x180.png?text=Django+Blog" width="300"/><br>
+      <strong>Django Blog</strong><br>
+      Django asosida yaratilgan blog sayt, foydalanuvchi post qo‘shadi, tahrirlaydi, o‘chiradi.
+      <br><br>
+      <a href="https://github.com/shoh-coder/django-blog">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-24292E?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://via.placeholder.com/300x180.png?text=Quiz+Bot" width="300"/><br>
+      <strong>Python Quiz Bot</strong><br>
+      Telegram orqali ishlaydigan test bot, 50 ta Python savollar bilan.
+      <br><br>
+      <a href="https://github.com/shoh-coder/python-quiz-bot">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-24292E?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://via.placeholder.com/300x180.png?text=Ustoz+Bot" width="300"/><br>
+      <strong>Ustoz Bot</strong><br>
+      O‘quvchilarga Python darslarini interaktiv o‘rgatadigan Telegram bot.
+      <br><br>
+      <a href="https://github.com/shoh-coder/ustoz-bot">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-24292E?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://via.placeholder.com/300x180.png?text=Portfolio" width="300"/><br>
+      <strong>Portfolio Website</strong><br>
+      O‘z faoliyatingizni ko‘rsatadigan shaxsiy portfolio sayt.
+      <br><br>
+      <a href="https://github.com/shoh-coder/portfolio-website">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-24292E?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
