@@ -86,8 +86,8 @@ Salom! Men **Sherzodov Shohjahon**, FULL STACK WEB DEVELOPER.
       <strong>Portfolio Website</strong><br>
       O‘z faoliyatingizni ko‘rsatadigan shaxsiy portfolio sayt.
       <br><br>
-      <a href="https://github.com/shoh-coder/portfolio-website">
-        <img src="https://img.shields.io/badge/View%20on%20GitHub-24292E?style=for-the-badge&logo=github&logoColor=white">
+      <a href="https://github.com/shohjahonsherzodov/portfolio-website">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-24292E?style=for-the-badge&logo=github&logoColor=white](https://1drv.ms/f/c/2cbb8c85b0775597/Eky5sl35Uw5LlfOsrShbwbIB6Vt7ee88faaeo7WCp15y4A?e=Lq1cuC">
       </a>
     </td>
   </tr>
